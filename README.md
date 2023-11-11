@@ -1,2 +1,2 @@
 # webcrawler
-A short webcrawler to view the advertised jobs of Würth-Group
+Ein kleiner Webcrawler, der die aktuellen Stellenanzeigen von der Würth-Group darstellt.
